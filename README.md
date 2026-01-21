@@ -6,7 +6,7 @@ I'm Tulio Flores, a developer and student at Instituto Tecnológico de Colima. I
 
 Languages: JavaScript, Java, HTML, CSS                                                
 Environment: Node.js                                                        
-Frameworks: Bootstrap                                        
+Frameworks: Tailwind, React y Bootstrap                                        
 
 📬 Connect with Me
 
