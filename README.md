@@ -11,7 +11,7 @@ Frameworks: Tailwind, React y Bootstrap
 📬 Connect with Me
 
 Website: [tulioflores.xyz](https://www.tulioflores.xyz)                     
-LinkedIn: [linkedin.com/in/tuliofloresramirez](linkedin.com/in/tuliofloresramirez)                                             
+LinkedIn: [linkedin.com/in/tuliofloresramirez](https://www.linkedin.com/in/tulio-elias-flores-ramirez-b296b834a/)                                             
 YouTube: [@tuliofloresramirez2830](https://www.youtube.com/@tuliofloresramirez2830)                                                    
 Email: floresstulio@gmail.com                                                            
 
